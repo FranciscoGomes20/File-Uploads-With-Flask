@@ -1,5 +1,5 @@
 # File-Uploads-With-Flask
-Um pequeno projeto para fazer upload de imagens utilizando o flask retirado no blog do miguel grinberg.
+Um pequeno projeto para fazer upload de imagens utilizando o flask retirado do blog miguel grinberg.
 
 link: https://blog.miguelgrinberg.com/post/handling-file-uploads-with-flask
 
